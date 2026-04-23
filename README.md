@@ -14,18 +14,18 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I enjoy solving real-world problems using data and technology. My GitHub profile showcases projects related to Python, PostgreSQL, JavaScript, data analytics, dashboards, and web development. From data collection, cleaning, and exploration to building applications and working with databases, I am committed to continuous learning and practical problem-solving.
 
-- 🌍 From Nepal
-- 📊 Interested in **Data Engineering, Data Analytics, and Development**
-- 🚀 Currently learning **advanced SQL, Python, and data engineering tools**
-- 💡 I like building practical projects that solve real problems
+- **From Nepal
+- Interested in Data Engineering, Data Analytics, and Development
+- Currently learning advanced SQL, Python, and data engineering tools
+- I like building practical projects that solve real problems**
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://github.com/db-crud" target="_blank">
@@ -48,7 +48,7 @@ I enjoy solving real-world problems using data and technology. My GitHub profile
 
 ---
 
-## 🔭 I'm Currently Working On
+## I'm Currently Working On
 
 - Data Engineering learning roadmap
 - PostgreSQL and SQL practice projects
@@ -58,7 +58,7 @@ I enjoy solving real-world problems using data and technology. My GitHub profile
 
 ---
 
-## 💼 Languages
+##  Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -90,7 +90,7 @@ I enjoy solving real-world problems using data and technology. My GitHub profile
 
 ---
 
-## 📝 Latest Blog Posts
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - Coming soon...
@@ -107,7 +107,7 @@ I enjoy solving real-world problems using data and technology. My GitHub profile
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=db-crud&theme=tokyonight&hide_border=true" />
@@ -123,7 +123,7 @@ I enjoy solving real-world problems using data and technology. My GitHub profile
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### 🔹 Main Projects
 - [Result Management System](https://github.com/db-crud)
@@ -136,12 +136,12 @@ I enjoy solving real-world problems using data and technology. My GitHub profile
 
 ---
 
-## 📫 Contact
+##  Contact
 
 - GitHub: **https://github.com/db-crud**
 - LinkedIn: **https://linkedin.com/in/your-link**
-- Email: **yourmail@gmail.com**
-- Medium: **https://medium.com/@your-medium-id**
+- Email: **dbsthakuree123@gmail.com**
+
 
 ---
 
