@@ -18,10 +18,10 @@
 
 I enjoy solving real-world problems using data and technology. My GitHub profile showcases projects related to Python, PostgreSQL, JavaScript, data analytics, dashboards, and web development. From data collection, cleaning, and exploration to building applications and working with databases, I am committed to continuous learning and practical problem-solving.
 
-- **From Nepal
+- From Nepal
 - Interested in Data Engineering, Data Analytics, and Development
 - Currently learning advanced SQL, Python, and data engineering tools
-- I like building practical projects that solve real problems**
+- I like building practical projects that solve real problems
 
 ---
 
@@ -73,17 +73,14 @@ I enjoy solving real-world problems using data and technology. My GitHub profile
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </p>
@@ -125,14 +122,12 @@ I enjoy solving real-world problems using data and technology. My GitHub profile
 
 ##  Featured Projects
 
-### 🔹 Main Projects
+###  Main Projects
 - [Result Management System](https://github.com/db-crud)
 - [SQL Practice Repository](https://github.com/db-crud)
 - [Donation Tracking System](https://github.com/db-crud)
 - [CRUD Web Applications](https://github.com/db-crud)
 
-> माथिका links अहिले placeholder हुन्।  
-> तिम्रो real repo name भएपछि `https://github.com/db-crud/repo-name` राख्नु।
 
 ---
 
